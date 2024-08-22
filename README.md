@@ -1,21 +1,12 @@
-<<<<<<< HEAD
-# flutter_learning
-These are some of the basic projects that I did while learning Flutter.
-=======
-# world_time_app
+## World Time App
 
-A new Flutter project.
+By selecting different cities, you can view the current time for each city. Additionally, the background changes according to whether it's day or night in that particular city.
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/2939432f-9598-4574-b228-82fb8161fe6b" width="250">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/d299d119-bd87-41f1-bf88-8a54b2c40372" width="250">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/2c9421d2-5a22-4160-a910-869f0e6a8bc4" width="250">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 205612e (First save)
+
