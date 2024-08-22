@@ -1,16 +1,8 @@
-# furkan_id
+# My Flutter Learning
 
-A new Flutter project.
+I created this repository to store the simple applications I developed during my Flutter learning journey. Some projects are more comprehensive, while others are simple applications made during the initial learning phase.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The following apps were created by following the "Net Ninja/Flutter Tutorial for Beginners" series:
+- world_time_app
+- quotes
+- basic_profile
