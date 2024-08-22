@@ -6,7 +6,7 @@ By selecting different cities, you can view the current time for each city. Addi
 
 <img src="https://github.com/user-attachments/assets/d299d119-bd87-41f1-bf88-8a54b2c40372" width="250">
 
-<img src="https://github.com/user-attachments/assets/2c9421d2-5a22-4160-a910-869f0e6a8bc4" width="250">
+<img src="https://github.com/user-attachments/assets/2c9421d2-5a22-4160-a910-869f0e6a8bc4" width="205">
 
 
 
