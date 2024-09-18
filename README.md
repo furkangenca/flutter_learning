@@ -2,6 +2,7 @@
 
 While learning Flutter, I previously built a counter app using a `StatefulWidget`. This time, I’m creating a counter app using the Bloc pattern to manage state.
 
+
 ## Project Setup
 
 After creating the project, I set up the necessary files:
@@ -104,3 +105,5 @@ Unlike other state management solutions like GetX, Bloc requires the `.add()` me
 
 - In GetX, we can call methods directly, such as `controller.IncreaseCounter()`.
 - In Bloc, we need to use `.add()` to add events to the queue for processing. This is because Bloc handles events asynchronously, unlike the direct method calls in GetX.
+
+![Screenshot_11](https://github.com/user-attachments/assets/1131fb06-3bfe-4c60-879e-824583b57d57)
