@@ -13,15 +13,6 @@ In Bloc architecture, it's common to use abstract classes. These provide a base 
 
 **Why abstract?** It allows for a more organized and scalable structure. The abstract classes only define the properties and methods, while the derived classes handle the specifics. The two key concepts in Bloc are abstract classes and inheritance.
 
-### Bloc File Structure
-
-In the Bloc file, we utilize a feature from the Bloc package to connect the state and event classes:
-
-```dart
-CounterBloc() extends Bloc<CounterEvent, CounterState> {}
-```
-
-This allows us to manage both the state and event within the Bloc. We’ll also frequently use the `super()` method to call constructors from the parent class.
 
 Some important Bloc methods include:
 
