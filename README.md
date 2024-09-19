@@ -1,18 +1,17 @@
 # My Flutter Learning
 
-I created this repository to store the simple applications I developed during my Flutter learning journey. Some projects are more comprehensive, while others are simple applications made during the initial learning phase.
+I created this repository to store the applications I developed during my Flutter learning journey. Some projects are more comprehensive, while others are simple apps built during the early stages of learning.
 
-While learning the BloC state management package in Flutter, I created a simple counter app to grasp the fundamentals of the BloC package.
+While learning the BloC state management package in Flutter, I created a simple counter app to understand the fundamentals of BloC.
 - bloc_counter
 
-To understand how API's work and integrate I made this app which is show some of the cities current hours with API.
+To explore how APIs work and how to integrate them, I built an app that shows the current time for various cities using an API.
 - world_time_app
 
-
-It was for learning setState here. Every time i add a new quote it was use setState to.
+This project was focused on learning setState. Every time I added a new quote, setState was used to update the screen and rebuild the entire scaffold. I also practiced structuring the app with modular files.
 - quotes
 
-It was for differences beetwen stateful and stateless widget and making designing in flutter. It has a simple counter.
+This app was designed to highlight the differences between Stateful and Stateless widgets and to experiment with design in Flutter.
 - basic_profile
 
-At the end of my Flutter learning journey, I created a to-do app which it called "taskly". You can check it out in my repository!
+At the end of my Flutter learning journey, I created a to-do app called "taskly." Feel free to check it out in my repository!
